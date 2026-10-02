@@ -6,7 +6,7 @@ pnpm-lock.yaml
 dist/
 dist-server/
 data/
-build/
+/build/
 .cache/
 .env*
 !.env.example
